@@ -7,6 +7,6 @@ This project is part of **Weekly Test 3**, where I created a **Jordan Shoe Websi
 - Information on Jordan shoe models.
 
 ## Deployed Link
-Check out the live version of the website here: [Jordan Shoe Website]("https://weeklytest3-namira.netlify.app/")
+Check out the live version of the website here: [Jordan Shoe Website](https://weeklytest3-namira.netlify.app/)
 
 Feel free to explore and share your feedback!
